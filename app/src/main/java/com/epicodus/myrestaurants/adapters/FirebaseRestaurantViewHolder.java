@@ -26,7 +26,6 @@ public class FirebaseRestaurantViewHolder extends RecyclerView.ViewHolder implem
     private static final int MAX_WIDTH = 200;
     private static final int MAX_HEIGHT = 200;
     public ImageView mRestaurantImageView;
-
     View mView;
     Context mContext;
 
